@@ -345,23 +345,6 @@
     position: relative;
     z-index: 9;
   }
-
-  .hero-section .container img{
-    /* width: fit-content; */
-    /* height: fit-content; */
-    width: 100%;
-    max-width: 700px;
-    height: auto;
-    align-items: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    position: static;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
   
   .hero-slides {
     width: 100%;
